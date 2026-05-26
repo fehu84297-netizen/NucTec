@@ -1,0 +1,616 @@
+     PPV术中染色：连接基础科学与临床实践的典范 \* { margin: 0; padding: 0; outline: 0; } body { font-family: "PingFang SC", system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; line-height: 1.6; } .\_\_page\_content\_\_ { max-width: 667px; margin: 0 auto; padding: 20px; text-size-adjust: 100%; color: rgba(0, 0, 0, 0.9); padding-bottom: 64px; } .title { user-select: text; font-size: 22px; line-height: 1.4; margin-bottom: 14px; font-weight: 500; } .\_\_meta\_\_ { color: rgba(0, 0, 0, 0.3); font-size: 15px; line-height: 20px; hyphens: auto; word-break: break-word; margin-bottom: 50px; } .\_\_meta\_\_ .nick\_name { color: #576B95; } .\_\_meta\_\_ .copyright { color: rgba(0, 0, 0, 0.3); background-color: rgba(0, 0, 0, 0.05); padding: 0 4px; margin: 0 10px 10px 0; } blockquote.source { padding: 10px; margin: 30px 0; border-left: 5px solid #ccc; color: #333; font-style: italic; word-wrap: break-word; } blockquote.source a { cursor: pointer; text-decoration: underline; } .item\_show\_type\_0 > section { margin-top: 0; margin-bottom: 24px; } a { color: #576B95; text-decoration: none; cursor: default; } .text\_content { margin-bottom: 50px; user-select: text; font-size: 17px; white-space: pre-wrap; word-wrap: break-word; line-height: 28px; hyphens: auto; } .picture\_content .picture\_item { margin-bottom: 30px; } .picture\_content .picture\_item .picture\_item\_label { text-align: center; } img { max-width: 100%; } .pay\_subscribe\_notice { margin: 30px 0; padding: 20px; background: #fffbe6; border: 1px solid #ffe58f; border-radius: 8px; } .pay\_subscribe\_badge { display: inline-block; padding: 4px 12px; background: #faad14; color: #fff; border-radius: 4px; font-size: 14px; font-weight: 500; margin-bottom: 12px; } .pay\_subscribe\_desc { font-size: 15px; line-height: 1.8; color: rgba(0, 0, 0, 0.7); margin-bottom: 12px; } .pay\_subscribe\_hint { font-size: 13px; color: rgba(0, 0, 0, 0.4); } .\_\_bottom-bar\_\_ { display: flex; justify-content: space-between; align-items: center; position: fixed; bottom: 0; left: 0; right: 0; height: 64px; padding: 8px 20px; background: white; box-sizing: border-box; border-top: 1px solid rgba(0, 0, 0, 0.2); } .\_\_bottom-bar\_\_ .left { display: flex; align-items: center; font-size: 15px; white-space: nowrap; } .\_\_bottom-bar\_\_ .right { display: flex; } .\_\_bottom-bar\_\_ .sns\_opr\_btn { display: flex; align-items: center; user-select: none; background: transparent; border: 0; color: rgba(0, 0, 0, 0.9); font-size: 14px; } .\_\_bottom-bar\_\_ .sns\_opr\_btn:not(:last-child) { margin-right: 16px; } .\_\_bottom-bar\_\_ .sns\_opr\_btn > img { margin-right: 4px; }
+
+PPV术中染色：连接基础科学与临床实践的典范
+======================
+
+原创 ✨🪐👀 瞳神书院Phoenix 2025-12-31 15:23
+
+> 原文地址: [https://mp.weixin.qq.com/s/lwepoKvzmcCPJ\_4MVOAAHg](https://mp.weixin.qq.com/s/lwepoKvzmcCPJ_4MVOAAHg)
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/yuticickzvyCnXTeIgf7UfA9viaeSqTCuqV9xMaITkicX1ewCk14zQWRBeTjlyyg5uRL3qs7vIUI07jvOGB08Mvtgw/640?wx_fmt=jpeg)
+
+图示：玻璃体切割手术中的内界膜剥离。 （左上）在黄斑裂孔手术中，吲哚菁绿（ICG）染色。建议手术快速进行，且光管必须远离黄斑，以尽量减少毒性作用的可能性。（右上）在黄斑裂孔手术中，通过0.5 mg/mL的溴苯那敏（BB）引导内界膜剥离。（左下）使用软尖头套管在视网膜表面注射溴苯那敏（BB）和曲安奈德（TA），尽管玻璃体腔注液（BSS）保持封闭状态，但仍采用双染色技术。（右下）在视网膜前膜（ERM）移除后，通过双染色技术引导内界膜剥离。染色时使用0.2 mL的40 mg/mL曲安奈德和0.2 mL的0.25%溴苯那敏。https://doi.org/10.1097/APO.0000000000000344
+
+![](https://mmbiz.qpic.cn/mmbiz_png/aBLicTKvT1bYIamqf3zktH9zx9yMahnb4zrlERQcibMzrecxWH505uQC82s5ONtBHv5Libr3eE3B4UknQcniaZ7Hicw/640?from=appmsg)
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/rUic56wBUCc3MYrPOUqk76SYWBBU1bYVHOPA56lPvlqM56AaGDIbTXulqgw2tlWG0FzFd2VhMEMJ0yEqtv63Gpw/640?from=appmsg)
+
+1 PPV手术与术中染色的概念解析
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/BfcTIEUBBgsKA0sDPXicrWUpfXZ19aqxEngGYlibpzgyYuwfXibqg4fGwmKAnWjAFicu4yJArkXSa14xJDApdF98aQ/640?from=appmsg)
+
+1.1 PPV手术的定义、适应症与临床意义
+
+扁平部玻璃体切除术（PPV）是现代眼科玻璃体视网膜外科的基石。该手术由Robert Machemer于20世纪70年代首创，其核心是通过在眼球壁睫状体扁平部（一个相对无血管且不涉及重要视觉功能的区域）建立2至3个微小切口（通常为20G、23G、25G或27G），将显微手术器械（如灌注管、光纤照明头、玻璃体切割头）置入玻璃体腔内，对眼后段的病变组织进行切除、修复和治疗。
+
+PPV手术的适应症极为广泛，涵盖了绝大多数需要对玻璃体和视网膜进行干预的疾病，主要包括：
+
+*   复杂性视网膜脱离
+    
+
+*   玻璃体病变
+    
+
+*   黄斑部疾病
+    
+
+*   糖尿病视网膜病变并发症
+    
+
+*   其他如眼内异物取出、眼内炎的诊断与治疗、晶状体或人工晶状体脱位至玻璃体腔等。
+    
+
+PPV手术技术的不断进步，特别是微创化（MIVS）的发展，极大地降低了手术创伤，缩短了恢复时间，改善了患者的预后。然而，手术的成功与否在很大程度上依赖于术者对眼内微细结构的精准辨识和操作。
+
+1.2 “染色玻切术”：术中染色的必要性与核心目标
+
+在PPV手术中，许多需要被精准操作的目标组织，其物理特性给手术带来了巨大挑战。例如，玻璃体后皮质 、视网膜内界膜以及视网膜前膜 等，本身是近乎透明的生物膜结构。在手术显微镜下，尤其是在液体灌注环境中，这些组织与周围的视网膜表面或玻璃体凝胶难以区分。
+
+这种可视化的困难直接导致了以下风险：
+
+*   组织残留： 是导致黄斑裂孔愈合失败或ERM复发的主要原因。
+    
+
+*   医源性损伤
+    
+
+*   延长手术时间
+    
+
+为了克服这一挑战， 染料辅助的玻璃体切除术（染色玻切术） 应运而生。其核心目标是利用具有生物相容性的 活体染料 ，在术中选择性地为这些透明或半透明的目标组织染色，从而极大地增强其与背景组织的可视化对比度。通过染色，术者可以清晰地看到：
+
+*   膜的边界： 精确判断ILM或ERM的范围。
+    
+
+*   膜的完整性
+    
+
+*   剥离的起点
+    
+
+*   玻璃体凝胶： 确保彻底切除。
+    
+
+1.3 理想术中染色剂的特性
+
+基于染色玻切术的目标，一种理想的眼内术中染色剂或助显剂应具备以下多方面特性：
+
+*   高选择性亲和力
+    
+
+*   出色的对比度
+    
+
+*   高度生物安全性
+    
+
+*   快速有效的染色
+    
+
+*   易于清除
+    
+
+*   化学与物理稳定性
+    
+
+*   合适的分子大小与理化性质
+    
+
+*   成本效益
+    
+
+在临床实践中，没有完美的染色物质。因此，对需要深入了解现有染色剂的优缺点，根据具体手术目标进行合理选择。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/aBLicTKvT1bYIamqf3zktH9zx9yMahnb4zrlERQcibMzrecxWH505uQC82s5ONtBHv5Libr3eE3B4UknQcniaZ7Hicw/640?from=appmsg)
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/rUic56wBUCc3MYrPOUqk76SYWBBU1bYVHOPA56lPvlqM56AaGDIbTXulqgw2tlWG0FzFd2VhMEMJ0yEqtv63Gpw/640?from=appmsg)
+
+2 PPV术中常用染色剂
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/BfcTIEUBBgsKA0sDPXicrWUpfXZ19aqxEngGYlibpzgyYuwfXibqg4fGwmKAnWjAFicu4yJArkXSa14xJDApdF98aQ/640?from=appmsg)
+
+2.1 吲哚菁绿 (ICG)
+
+ICG作为最早被用于ILM染色的活体染料之一，在染色辅助玻切术的发展史上扮演了开创性角色。
+
+*   应用与机制： ICG是一种花青染料，在眼科最初用于眼底血管造影（ICGA）。其分子能够与血浆蛋白（主要是白蛋白）结合。在ILM染色中，推测其机制是与ILM中的细胞外基质蛋白（如纤连蛋白、胶原蛋白）结合，从而实现染色。ICG对ILM的染色效果非常强，能够产生清晰的绿色对比。
+    
+
+*   优点：
+    
+
+*   染色效果强
+    
+
+*   历史悠久
+    
+
+*   缺点与重大安全隐患：
+    
+
+*   显著的视网膜毒性
+    
+
+*   渗透压毒性
+    
+
+*   光毒性
+    
+
+*   临床后遗症
+    
+
+*   清除困难
+    
+
+*   当前临床地位： 鉴于其明确的视网膜毒性风险，尽管染色效果优异，但在绝大多数国家和地区，它已不再被推荐用于常规的ILM染色。
+    
+
+2.2 台盼蓝 (TB)
+
+台盼蓝是一种偶氮染料，最初在眼科广泛用于白内障手术中对晶状体前囊膜的染色。随后，其应用被拓展至玻璃体视网膜手术。
+
+*   应用与机制： 台盼蓝通常用于染色视网膜前膜（ERM），有时也用于ILM染色。其染色机制主要是通过与膜的胶原纤维和细胞外基质结合。
+    
+
+*   优点：
+    
+
+*   对ERM染色效果好
+    
+
+*   安全性优于ICG
+    
+
+*   商业产品可用性
+    
+
+*   缺点：
+    
+
+*   对ILM染色较弱
+    
+
+*   仍存潜在毒性
+    
+
+*   快速褪色
+    
+
+*   当前临床地位： TB在ERM剥离手术中仍有一定的应用价值。然而，在要求最高精度的黄斑裂孔手术（ILM剥离）中，它已在很大程度上被亮蓝-G所取代。一些复合染料产品会将其与亮蓝-G结合，以期同时获得对ERM和ILM的良好染色效果。
+    
+
+2.3 亮蓝-G (BBG)
+
+亮蓝-G（也称Coomassie Brilliant Blue G-250）是一种三苯甲烷染料，它的出现是染色辅助玻切术领域的一次重大革命，被广泛认为是目前ILM染色的“金标准”。
+
+*   应用与机制：其作用机制是通过静电和疏水作用力，特异性地与ILM中的胶原蛋白等蛋白质结合，形成鲜明的蓝色，而在视网膜表面的附着力很弱。
+    
+
+*   优点：
+    
+
+*   卓越的ILM染色效果
+    
+
+*   极佳的安全性：是目前公认的最安全的ILM染色剂。
+    
+
+*   易于清除
+    
+
+*   缺点：
+    
+
+*   对ERM染色稍弱
+    
+
+*   浓度依赖性
+    
+
+*   当前临床地位： BBG是当前全球范围内进行黄斑裂孔和黄斑前膜手术时，用于ILM剥离的首选染色剂。市面上有多种基于BBG的商业化产品。
+    
+
+2.4 曲安奈德混悬液 (TA)
+
+与上述真正的“染料”不同，曲安奈德（TA）是一种长效皮质类固醇激素的微晶混悬液。它在PPV中扮演的是 “机械性助显剂” 的角色，主要用于可视化透明的玻璃体。
+
+*   应用与机制： 当将TA混悬液注入玻璃体腔时，其白色的微小晶体颗粒会附着在透明的玻璃体凝胶纤维网络上，但不会附着于液体或视网膜表面。这使得原本透明的玻璃体“显影”，呈现出白色絮状外观。术者因此可以清晰地看到玻璃体的范围、后皮质是否已与视网膜分离，以及是否有残留的玻璃体。
+    
+
+*   优点：
+    
+
+*   卓越的玻璃体可视化
+    
+
+*   抗炎作用
+    
+
+*   缺点：
+    
+
+*   术后高眼压
+    
+
+*   视线遮挡
+    
+
+*   感染风险
+    
+
+*   对膜染色无效： 无法对ILM或ERM进行染色。
+    
+
+*   当前临床地位： 是PPV手术中处理玻璃体，尤其是进行“核心玻璃体切除”和诱导PVD时的标准辅助工具。它与用于膜染色的染料（如BBG）功能互补，常常在同一台手术的不同阶段被使用。
+    
+
+2.5 复合染色剂
+
+为了在一管染料中实现多重功能，研究人员和公司开发了复合染色剂。这类产品通常将BBG和TB按特定比例混合。利用TB对ERM的良好染色能力和BBG对ILM的卓越染色能力，实现“一针染色，双膜显影”。这对于治疗同时存在ERM和需要剥离ILM的复杂黄斑病变特别有用。
+
+*   临床评估： 临床研究表明，这类复合染料在安全性和有效性方面与单独使用两种染料顺序染色相似，但可能简化手术流程，缩短手术时间。
+    
+
+表1：常用染色剂/助显剂对比
+
+助显剂
+
+主要目标组织
+
+优点
+
+缺点与风险
+
+当前地位
+
+ICG
+
+ILM
+
+染色效果极强
+
+高视网膜毒性
+
+已淘汰
+
+TB
+
+ERM, (ILM)
+
+对ERM效果好，比ICG安全
+
+对ILM染色弱，仍有潜在毒性
+
+ERM手术中可用，但逐渐被替代
+
+BBG
+
+ILM
+
+染色效果好，安全性极高
+
+对ERM染色稍弱
+
+ILM染色的金标准
+
+TA
+
+玻璃体
+
+极佳的玻璃体可视化，抗炎
+
+术后高眼压风险
+
+玻璃体可视化的标准工具
+
+复合
+
+ERM & ILM
+
+简化流程，兼顾双膜
+
+性能取决于组分配比
+
+复杂黄斑病变中的便捷选择
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_png/aBLicTKvT1bYIamqf3zktH9zx9yMahnb4zrlERQcibMzrecxWH505uQC82s5ONtBHv5Libr3eE3B4UknQcniaZ7Hicw/640?from=appmsg)
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/rUic56wBUCc3MYrPOUqk76SYWBBU1bYVHOPA56lPvlqM56AaGDIbTXulqgw2tlWG0FzFd2VhMEMJ0yEqtv63Gpw/640?from=appmsg)
+
+3 PPV术中染色的标准操作流程与技术细节
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/BfcTIEUBBgsKA0sDPXicrWUpfXZ19aqxEngGYlibpzgyYuwfXibqg4fGwmKAnWjAFicu4yJArkXSa14xJDApdF98aQ/640?from=appmsg)
+
+尽管具体细节可能因术者偏好和设备而异，但PPV术中的染色操作已形成一套相对标准化的流程，旨在最大化染色效果，同时最小化潜在风险。
+
+3.1 术前准备与染色剂配制
+
+*   患者沟通
+    
+
+*   染色剂选择
+    
+
+*   质量检查与配制：
+    
+
+*   商业预充注射器
+    
+
+*   现场稀释（不推荐）： 在缺乏商业产品的情况下，一些机构可能使用高浓度原液进行稀释。此操作风险较高。
+    
+
+*   温度控制： 染色剂应在室温下使用，无需特殊加热或冷却。
+    
+
+3.2 术中核心应用技术：“液-气交换下的干染法”
+
+为了防止染料在眼内被大量灌注液稀释、提高染色效率并保护黄斑中心凹免受染料直接冲击，临床上普遍采用“液-气交换”技术。
+
+1.  完成玻璃体切除
+    
+2.  液-气交换（FAE）
+    
+3.  染料注射：
+    
+
+1.  将连接有钝头针的染料注射器通过一个套管切口置入眼内。
+    
+2.  在显微镜直视下，缓慢而轻柔地将一小滴染料滴在待染色的黄斑区视网膜表面。关键操作是“悬滴”。
+    
+3.  孵育： 让染料在视网膜表面停留一段短暂的时间，通常为15至60秒。孵育时间需严格控制。
+    
+4.  染料清除：
+    
+
+*   立即使用主动或被动吸引，将视网膜表面的染料液滴完全吸除。
+    
+
+*   随后重新开启灌注，用BSS液体替换眼内的空气，并轻柔地冲洗视网膜表面，确保所有未结合的游离染料被彻底清除。这是降低毒性风险至关重要的一步。
+    
+
+D 膜组织剥离
+
+3.3 不同目标组织的染色策略差异
+
+*   ILM染色（黄斑裂孔）： BBG是最佳选择。由于ILM与视网膜贴附紧密，染色后的精准剥离对裂孔的解剖闭合至关重要。
+    
+
+*   ERM染色（黄斑前膜）： 目标是染色含有细胞成分和胶原的ERM。TB、BBG或复合染料均可使用。ERM通常比ILM更容易剥离，但染色同样有助于确认剥离的完整性。
+    
+
+*   玻璃体染色（PVD诱导）： 目标是可视化透明的玻璃体。TA是重要的选择。通常在手术早期使用，以指导玻璃体切除的范围。
+    
+
+通过遵循标准化流程，安全、高效地进行染色玻切术，显著提高PPV手术的成功率和患者的术后视觉质量。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/rUic56wBUCc3MYrPOUqk76SYWBBU1bYVHOPA56lPvlqM56AaGDIbTXulqgw2tlWG0FzFd2VhMEMJ0yEqtv63Gpw/640?from=appmsg)
+
+4 安全性、风险与并发症评估
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/BfcTIEUBBgsKA0sDPXicrWUpfXZ19aqxEngGYlibpzgyYuwfXibqg4fGwmKAnWjAFicu4yJArkXSa14xJDApdF98aQ/640?from=appmsg)
+
+尽管染色玻切术带来了革命性的进步，但其安全性始终是临床关注的焦点。风险主要来源于染料本身的毒性和手术操作过程。
+
+4.1 染色剂的视网膜毒性机制与评估
+
+染料对视网膜的潜在毒性是最大的安全顾虑，其机制主要包括：
+
+*   化学毒性： 染料分子直接与细胞内的关键蛋白或细胞膜发生作用，干扰细胞正常代谢，甚至导致细胞凋亡或坏死。ICG的毒性很大程度上源于此。
+    
+
+*   渗透压毒性： 染料溶液的渗透压如果与眼内生理环境（约290-300 mOsm/L）差异过大，会导致细胞脱水或水肿，从而引发损伤。
+    
+
+*   光毒性： 某些染料分子在吸收了手术显微镜光源的特定波长能量后，会进入激发态，并将能量传递给氧分子，产生活性氧（ROS），如单线态氧和超氧阴离子。这些强氧化剂会攻击细胞膜、蛋白质和DNA，造成严重的氧化损伤。ICG的光毒性尤为显著。BBG的分子结构使其光毒性风险大为降低。
+    
+
+临床评估与证据：
+
+安全性评估通常通过体外细胞培养实验、动物模型研究和人体临床试验来进行。评估指标包括：
+
+*   组织学变化： 观察RPE细胞和光感受器细胞的形态学改变。
+    
+
+*   功能学检测： 通过视网膜电图（ERG）评估视网膜神经细胞的电生理功能。使用ICG后，常能检测到ERG波幅的显著下降。
+    
+
+*   临床观察： 术后通过眼底检查、光学相干断层扫描（OCT）和视野检查，监测RPE萎缩、视野缺损等并发症的发生。
+    
+
+现有证据一致指向： ICG具有不可接受的高毒性风险；TB的安全性中等，需谨慎使用；BBG则表现出高安全性。
+
+4.2 手术相关的并发症
+
+除了染料本身的毒性，染色操作流程本身也可能引入并发症：
+
+*   机械性损伤
+    
+
+*   染料残留
+    
+
+*   PPV手术固有风险： 如医源性视网膜裂孔、视网膜脱离、术后高眼压、白内障进展、眼内炎等。
+    
+
+4.3 风险管理与安全共识
+
+A. 优先选择最安全的染料
+
+B. 使用最低有效浓度
+
+C. 最小化接触时间
+
+D. 确保彻底清除
+
+E. 采用“干染”技术
+
+F. 注意光源管理
+
+G. 使用认证产品
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/rUic56wBUCc3MYrPOUqk76SYWBBU1bYVHOPA56lPvlqM56AaGDIbTXulqgw2tlWG0FzFd2VhMEMJ0yEqtv63Gpw/640?from=appmsg)
+
+5 跨学科应用与对比分析
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/BfcTIEUBBgsKA0sDPXicrWUpfXZ19aqxEngGYlibpzgyYuwfXibqg4fGwmKAnWjAFicu4yJArkXSa14xJDApdF98aQ/640?from=appmsg)
+
+术中染色并非眼科独有，它在多个外科领域都有着重要应用。通过对比分析，可以更深刻地理解染色玻切术的独特性及其在整个医学可视化技术谱系中的位置。
+
+5.1 眼科之外的术中染色应用
+
+A消化内科与外科（胃肠道）：
+
+*   染色内镜
+    
+
+*   术中标记
+    
+
+B神经外科：
+
+*   荧光引导手术
+    
+
+C 普外科、乳腺外科、泌尿外科等：
+
+*   前哨淋巴结活检（SLNB
+    
+
+D组织标记与管道识别
+
+表2 对比分析：不同外科领域染色技术的异同
+
+特征
+
+眼科 (染色玻切术)
+
+胃肠科
+
+神经外科
+
+目标可视化
+
+透明、无生命的生物膜 (ILM/ERM)
+
+增强黏膜表面形态/细胞学差异
+
+识别代谢活跃的肿瘤细胞
+
+原理
+
+物理/化学吸附：染料与膜的细胞外基质结合。
+
+对比/吸收：染料填充沟壑或被特定上皮细胞吸收。
+
+代谢转化：前体药物在肿瘤细胞内被转化为荧光物质。
+
+技术类型
+
+活体染色
+
+活体染色
+
+荧光引导手术 (FGS)
+
+染料/探针
+
+BBG, TB
+
+靛胭脂, 美蓝 (颜色染料)
+
+5-ALA (荧光前体)
+
+观察方式
+
+标准手术显微镜白光照明
+
+内窥镜白光或特定光（NBI）
+
+带特殊滤光模块的手术显微镜
+
+核心挑战
+
+视网膜毒性；微米级的精准操作。
+
+染料分布不均；黏液干扰。
+
+假阳性/假阴性；荧光信号的定量解读。
+
+总结异同点：
+
+*   共同目标： “让不可见变为可见”
+    
+
+*   原理多样性： 眼科染色玻切术主要依赖对 结构 的物理染色；消化科染色内镜兼顾 形态 和 细胞学 特征；而神经外科的FGS则利用了肿瘤的 代谢 特异性。
+    
+
+*   技术演进趋势
+    
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/rUic56wBUCc3MYrPOUqk76SYWBBU1bYVHOPA56lPvlqM56AaGDIbTXulqgw2tlWG0FzFd2VhMEMJ0yEqtv63Gpw/640?from=appmsg)
+
+6 未来发展趋势与前沿研究
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/BfcTIEUBBgsKA0sDPXicrWUpfXZ19aqxEngGYlibpzgyYuwfXibqg4fGwmKAnWjAFicu4yJArkXSa14xJDApdF98aQ/640?from=appmsg)
+
+6.1 新型染色剂与智能递送系统
+
+*   更安全的染料
+    
+
+*   多功能染料
+    
+
+*   纳米载体递送系统
+    
+
+6.2 与先进成像技术的深度融合
+
+*   荧光染色玻切术
+    
+
+*   术中OCT（iOCT）引导的“无染料”剥离
+    
+
+*   高光谱成像
+    
+
+6.3 人工智能（AI）赋能的图像引导手术
+
+A AI增强可视化：
+
+*   虚拟染色/数字染色： 实现无物理染料的“数字染色玻切术”。
+    
+
+*   图像增强
+    
+
+B AI辅助决策：
+
+*   边界自动识别
+    
+
+*   安全性预警
+    
+
+C机器人辅助手术
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/rUic56wBUCc3MYrPOUqk76SYWBBU1bYVHOPA56lPvlqM56AaGDIbTXulqgw2tlWG0FzFd2VhMEMJ0yEqtv63Gpw/640?from=appmsg)
+
+7 结论
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/BfcTIEUBBgsKA0sDPXicrWUpfXZ19aqxEngGYlibpzgyYuwfXibqg4fGwmKAnWjAFicu4yJArkXSa14xJDApdF98aQ/640?from=appmsg)
+
+综上所述，PPV术中染色技术是连接基础科学与临床实践的典范。对现有技术的深刻理解和对未来趋势的敏锐洞察，将持续推动玻璃体视网膜疾病的治疗水平迈向新的高峰。
+
+ 免责声明：本文内容整理、编译自互联网公开内容渠道和报告。本公众号文中所有内容仅供学习参考，不能替代专业的医疗建议、诊断或治疗。如有关于健康状况的任何疑问，请务必咨询专业的医生和医疗机构。
+
+文中图片来自网络，版权归原作者所有，如有疑问请联系删除。
+
+![](http://mmbiz.qpic.cn/sz_mmbiz_png/yuticickzvyCk03lQundzadUFzYUZaJEEicorxlwvonDLC3ysibC5cSUtcs82qzqnMp3ThTia8HAFhCCp9BAhjYXOQg/0?wx_fmt=png) 瞳神书院Phoenix
+
+ ![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3C!-- Icon from Lucide by Lucide Contributors - https://github.com/lucide-icons/lucide/blob/main/LICENSE --%3E%3Cg fill='none' stroke='%23888888' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'%3E%3Cpath d='M2.062 12.348a1 1 0 0 1 0-.696a10.75 10.75 0 0 1 19.876 0a1 1 0 0 1 0 .696a10.75 10.75 0 0 1-19.876 0'/%3E%3Ccircle cx='12' cy='12' r='3'/%3E%3C/g%3E%3C/svg%3E) 阅读![](data:image/svg+xml,%3Csvg width='25' height='24' viewBox='0 0 25 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M16.154 6.797l-.177 2.758h4.009c1.346 0 2.359 1.385 2.155 2.763l-.026.148-1.429 6.743c-.212.993-1.02 1.713-1.977 1.783l-.152.006-13.707-.006c-.553 0-1-.448-1-1v-8.58a1 1 0 0 1 1-1h2.44l1.263-.03.417-.018.168-.015.028-.005c1.355-.315 2.39-2.406 2.58-4.276l.01-.16.022-.572.022-.276c.074-.707.3-1.54 1.08-1.883 2.054-.9 3.387 1.835 3.274 3.62zm-2.791-2.52c-.16.07-.282.294-.345.713l-.022.167-.019.224-.023.604-.014.204c-.253 2.486-1.615 4.885-3.502 5.324l-.097.018-.204.023-.181.012-.256.01v8.218l9.813.004.11-.003c.381-.028.72-.304.855-.709l.034-.125 1.422-6.708.02-.11c.099-.668-.354-1.308-.87-1.381l-.098-.007h-5.289l.26-4.033c.09-1.449-.864-2.766-1.594-2.446zM7.5 11.606l-.21.005-2.241-.001v8.181l2.45.001v-8.186z' fill='%23000'/%3E%3C/svg%3E) 赞 ![](data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E  %3Cg fill='none' fill-rule='evenodd'%3E    %3Cpath d='M0 0h24v24H0z'/%3E    %3Cpath fill='%23576B95' d='M13.707 3.288l7.171 7.103a1 1 0 0 1 .09 1.32l-.09.1-7.17 7.104a1 1 0 0 1-1.705-.71v-3.283c-2.338.188-5.752 1.57-7.527 5.9-.295.72-1.02.713-1.177-.22-1.246-7.38 2.952-12.387 8.704-13.294v-3.31a1 1 0 0 1 1.704-.71zm-.504 5.046l-1.013.16c-4.825.76-7.976 4.52-7.907 9.759l.007.287c1.594-2.613 4.268-4.45 7.332-4.787l1.581-.132v4.103l6.688-6.623-6.688-6.623v3.856z'/%3E  %3C/g%3E%3C/svg%3E) 分享 ![](data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='24' height='24' viewBox='0 0 24 24'%3E  %3Cdefs%3E    %3Cpath id='a62bde5b-af55-42c8-87f2-e10e8a48baa0-a' d='M0 0h24v24H0z'/%3E  %3C/defs%3E  %3Cg fill='none' fill-rule='evenodd'%3E    %3Cmask id='a62bde5b-af55-42c8-87f2-e10e8a48baa0-b' fill='%23fff'%3E      %3Cuse xlink:href='%23a62bde5b-af55-42c8-87f2-e10e8a48baa0-a'/%3E    %3C/mask%3E    %3Cg mask='url(%23a62bde5b-af55-42c8-87f2-e10e8a48baa0-b)'%3E      %3Cg transform='translate(0 -2.349)'%3E        %3Cpath d='M0 2.349h24v24H0z'/%3E        %3Cpath fill='%23576B95' d='M16.45 7.68c-.954 0-1.94.362-2.77 1.113l-1.676 1.676-1.853-1.838a3.787 3.787 0 0 0-2.63-.971 3.785 3.785 0 0 0-2.596 1.112 3.786 3.786 0 0 0-1.113 2.687c0 .97.368 1.938 1.105 2.679l7.082 6.527 7.226-6.678a3.787 3.787 0 0 0 .962-2.618 3.785 3.785 0 0 0-1.112-2.597A3.687 3.687 0 0 0 16.45 7.68zm3.473.243a4.985 4.985 0 0 1 1.464 3.418 4.98 4.98 0 0 1-1.29 3.47l-.017.02-7.47 6.903a.9.9 0 0 1-1.22 0l-7.305-6.73-.008-.01a4.986 4.986 0 0 1-1.465-3.535c0-1.279.488-2.56 1.465-3.536A4.985 4.985 0 0 1 7.494 6.46c1.24-.029 2.49.4 3.472 1.29l.01.01L12 8.774l.851-.85.01-.01c1.046-.951 2.322-1.434 3.59-1.434 1.273 0 2.52.49 3.472 1.442z'/%3E      %3C/g%3E    %3C/g%3E  %3C/g%3E%3C/svg%3E) 推荐 ![](data:image/svg+xml,%3Csvg width='25' height='24' viewBox='0 0 25 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M22.242 7a2.5 2.5 0 0 0-2.5-2.5h-14a2.5 2.5 0 0 0-2.5 2.5v8.5a2.5 2.5 0 0 0 2.5 2.5h2.5v1.59a1 1 0 0 0 1.707.7l1-1a.569.569 0 0 0 .034-.03l1.273-1.273a.6.6 0 0 0-.8-.892v-.006L9.441 19.1l.001-2.3h-3.7l-.133-.007A1.3 1.3 0 0 1 4.442 15.5V7l.007-.133A1.3 1.3 0 0 1 5.742 5.7h14l.133.007A1.3 1.3 0 0 1 21.042 7v4.887a.6.6 0 1 0 1.2 0V7z' fill='%23000' fill-opacity='.9'/%3E%3Crect x='14.625' y='16.686' width='7' height='1.2' rx='.6' fill='%23000' fill-opacity='.9'/%3E%3Crect x='18.725' y='13.786' width='7' height='1.2' rx='.6' transform='rotate(90 18.725 13.786)' fill='%23000' fill-opacity='.9'/%3E%3C/svg%3E) 留言
